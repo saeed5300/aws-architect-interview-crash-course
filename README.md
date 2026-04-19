@@ -15,3 +15,7 @@ Through this course, I strengthened my understanding of AWS cloud architecture a
 Purpose
 
 This project is part of my continuous learning journey in Cloud Computing and DevOps.
+
+Course Link:
+
+https://www.udemy.com/course/aws-architect-interview-crash-course-land-your-job-fast/?referralCode=73BEFF23E9A1E32BEE68
